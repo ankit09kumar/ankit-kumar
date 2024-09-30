@@ -1,0 +1,8 @@
+name = input("your name: ")
+age = int(input("your age is : "))
+education = input("enter your education: ")
+branch = input("your branch is : ")
+print(name)
+print(age)
+print(education)
+print(branch)

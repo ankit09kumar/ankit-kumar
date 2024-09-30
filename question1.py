@@ -1,0 +1,5 @@
+name1 = input("enter your first name: ")
+name2 = input("enter your second name: ")
+sum  = (name1 + name2)
+print(sum)
+print(len(name1 + name2))
